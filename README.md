@@ -12,33 +12,14 @@
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-  
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp
-
-  
-  <img src="https://img.shields.io/badge/C-A8B9CC?.svg?style=for-the-badge&logo=C&logoColor=white"/>&nbsp
-
-  
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp
-
-  
-  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
- 
-  
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp
-
-  
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp
- 
-  
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white"/>&nbsp
-
-  
-  <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white"/>
 </div>
